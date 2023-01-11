@@ -1,0 +1,44 @@
+class Test
+{
+	public static void main(String args[])
+	{
+	   System.out.println("table of 9 are as follows:");
+	   int i=1,a=1;
+	   while(i<=10)
+	   {
+	   	  a=i*9;
+	      System.out.println(a);
+	      i++;  
+	   }
+
+	   System.out.println("\n");
+	   System.out.println("table of 2 are as follows:");
+        i=1;
+	   while(i<=10)
+	   {
+	   	  int b=i*2;
+	      System.out.println(b);
+	      i++;  
+	   }
+
+	   System.out.println("\n");
+	   System.out.println(" the reverse table of 9 are as follows:");
+        i=10;
+	   while(i>=1)
+	   {
+	   	  int b=i*9;
+	      System.out.println(b);
+	      i--;  
+	   }
+
+	   System.out.println("\n");
+	   System.out.println(" the reverse table of 2 are as follows:");
+        i=10;
+	   while(i>=1)
+	   {
+	   	  int b=i*2;
+	      System.out.println(b);
+	      i--;  
+	   }
+	}
+}
