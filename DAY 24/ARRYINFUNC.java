@@ -14,15 +14,6 @@ class Test
 	      	flag=true;
 	      }
 	   }
-
-		// for(int data:arr)
-		// {
-		// 	System.out.print(data+" ");
-		// 	if(data==search)
-	    //   {
-	    //   	flag=true;
-	    //   }
-		// }
         System.out.println();
 	   if(flag==true)
 	   {
