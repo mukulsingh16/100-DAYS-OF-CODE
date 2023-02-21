@@ -7,11 +7,11 @@ public class packageEx1
 
 	public void fun()
 	{
-	   System.out.println("my name is gagan");
+	   System.out.println("my name is joy");
 	}
 	public void fun2()
 	{
-	   System.out.println("my name is mukul gagan");
+	   System.out.println("my name is mukul");
 	}
 // }
 }
